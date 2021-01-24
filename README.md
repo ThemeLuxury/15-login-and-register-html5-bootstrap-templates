@@ -8,22 +8,22 @@ This login template bootstrap is fully responsive and compatible with all major 
 
 Why should you choose this Login Template Bootstrap?
 + 15+ Unique Templates with 45+ Pages
-⋅⋅* Bootstrap Powered (v4.5.x)
-⋅⋅* Jquery Powered
-⋅⋅* W3 Validator
-⋅⋅* Modern Design
-⋅⋅* Fully Responsive
-⋅⋅* Unlimited Color
-⋅⋅* Free Update
-⋅⋅* Well Commented Code
-⋅⋅* Developer Friendly
-⋅⋅* Browser Compatibility
-⋅⋅* Easily Customizable
-⋅⋅* Powerful and flexible
-⋅⋅* HTML5 & CSS3 Support
-⋅⋅* Well Documented
-⋅⋅* 24/7 Customer Support
-⋅⋅* GDPR Compliant
++ Bootstrap Powered (v4.5.x)
++ Jquery Powered
++ W3 Validator
++ Modern Design
++ Fully Responsive
++ Unlimited Color
++ Free Update
++ Well Commented Code
++ Developer Friendly
++ Browser Compatibility
++ Easily Customizable
++ Powerful and flexible
++ HTML5 & CSS3 Support
++ Well Documented
++ 24/7 Customer Support
++ GDPR Compliant
 
 ## Customer Satisfaction
 
